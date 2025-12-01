@@ -132,9 +132,7 @@ section {
   float:right;
   padding-bottom:50px;
   text-align: justify;
-
-  float: none !important;
-  width: auto !important;
+  
   page-break-before: always; /* Force new page for each section */
   break-before: page; /* Modern alternative */
 }
