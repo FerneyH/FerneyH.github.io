@@ -7,7 +7,7 @@ body {
 }
 
 nav {
-  background-color: #bad8e2; /* Background color of the navigation bar */
+  background-color: #346a7c; /* Background color of the navigation bar */
   padding: 10px 0;
 }
 
@@ -29,7 +29,7 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #555; /* Background color of the navigation links on hover */
+  background-color:  #bad8e2; /* Background color of the navigation links on hover */
 }
 
 h1, h2, h3, h4, h5, h6 {
