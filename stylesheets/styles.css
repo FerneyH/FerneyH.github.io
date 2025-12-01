@@ -133,8 +133,10 @@ section {
   padding-bottom:50px;
   text-align: justify;
 
-  /* Force each section to start on a new page when printing */
-  page-break-before: always;
+  float: none !important;
+  width: auto !important;
+  page-break-before: always; /* Force new page for each section */
+  break-before: page; /* Modern alternative */
 }
 
 
