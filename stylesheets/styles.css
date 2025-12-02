@@ -302,6 +302,7 @@ footer {
     width: 100% !important;
     page-break-before: always !important;
     break-before: page !important;
+    break-before: page !important;
   }
 
 }
